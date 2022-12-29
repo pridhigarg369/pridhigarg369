@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning `New skills everyday`
 - 🔭 I’m currently working on `Something Intresting`
 - 🌱 I’m currently learning `React and Node Js`
-- 💞️ I’m looking forward to collaborations on `Dev Projects`
+- 💞️ I’m looking forward to collaborations related to `Dev Projects`
 - 📫 How to reach me : Mail Me: pridhi1667.be20@chitkara.edu.in
 
 - 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
