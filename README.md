@@ -6,7 +6,7 @@
 - 💞️ I’m looking forward to collaborations on `Dev Projects`
 - 📫 How to reach me : Mail Me: pridhi1667.be20@chitkara.edu.in
 
-- 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉<br/>
+- 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
 - ⚡ Fun fact: I waste most of my time playing games😅😅
 
 💬 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
