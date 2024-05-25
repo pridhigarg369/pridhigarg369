@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Pridhi!
 
 - 👀 I’m interested in learning `New skills everyday`
-- 🔭 I’m currently working on `Something Intresting`
+- 🔭 I’m currently working on `Spring Boot Projects`
 - 🌱 I’m currently learning `React and Node Js`
 - 💞️ I’m looking forward to collaborations related to `Dev Projects`
 - 📫 How to reach me : https://www.linkedin.com/in/pridhi-garg-a707381b0/
