@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in learning `New skills everyday`
 - 🔭 I’m currently working on `Spring Boot Projects`
-- 🌱 I’m currently learning `React and Node Js`
+- 🌱 I’m currently learning `Java and SpringBoot`
 - 💞️ I’m looking forward to collaborations related to `Dev Projects`
 - 📫 How to reach me : https://www.linkedin.com/in/pridhi-garg-a707381b0/
 
